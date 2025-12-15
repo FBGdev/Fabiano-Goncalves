@@ -15,7 +15,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" height="30" alt="Supabase" title="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity" title="Unity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="30" alt="Firebase" title="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
@@ -26,9 +26,9 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Portifolio
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FBGdev&show_icons=true&theme=radical" height="150"/>
+  [Flapy Pig](https://flap-pig.web.app)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBGdev&layout=compact&theme=radical" height="150"/>
 </p>
 

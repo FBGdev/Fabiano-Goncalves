@@ -16,7 +16,7 @@
 
 - 🚀 Projetos em andamento:
   -  [![Suporte-Tech](https://img.shields.io/badge/SuporteTech%20progress-darkred?style=flat-square)](https://github.com/FGBdev/Suporte-Tech/)
-  -  [![Zapp-Project](https://img.shields.io/badge/Zapp%20SixTech-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/Zapp-Project/)
+  -  [![Zapp-Project](https://img.shields.io/badge/Zapp%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/Zapp-Project/)
 
 - 🎓 Atualmente aprendendo **Python/Django**
   

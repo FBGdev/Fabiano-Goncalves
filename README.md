@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FBGdev/FBGdev/main/logo.png" width="600" alt="Banner de Fabiano Gonçalves" />
+  <img src="https://raw.githubusercontent.com/FBGdev/FBGdev/main/Fabiano Logo.png" width="600" alt="Banner de Fabiano Gonçalves" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FBGdev&label=Profile%20views&color=0e75b6&style=flat" alt="FBGdev" /> 

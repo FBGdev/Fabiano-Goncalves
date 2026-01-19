@@ -20,7 +20,7 @@
 
 - 🎓 Atualmente aprendendo **Python/Django**
   
-- 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO]([https://portifolio-fabiano.vercel.app/])**
+- 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO]((https://portifolio-fabiano.vercel.app/))**
   
 - ❓ Pergunte-me sobre **Lógca de Programação / Linux / Git**
 

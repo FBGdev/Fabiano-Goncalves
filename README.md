@@ -15,6 +15,7 @@
 <h3 align="left">💻 Sobre mim</h3>
 
 - 🚀 Projetos em andamento:
+  -  [![Educa+](https://img.shields.io/badge/Educa+%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/EducaMAIS)
   -  [![Suporte-Tech](https://img.shields.io/badge/Suporte%20-Complete-darkgreen?style=flat-square)](https://github.com/FGBdev/Suporte-Tech/)
   -  [![Zapp-Project](https://img.shields.io/badge/Zapp%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/ZAPP/)
 
